@@ -2,14 +2,14 @@
 Output to the LCD screen of Lego Mindstorms EV3 brick, running ev3dev firmware.
 =========================================================
 
-HOW TO INSTALL:
+How to install:
 ---------------
 
-Currently the package is not registered in the npm, so just download this
-repositories folder and put it is a ev3-screen subfolder of your node_modules folder.
+Currently the package is not registered in npm, so just download this
+set of files and put it is an ev3-screen subfolder of your node_modules folder.
 
-TESTING:
------------
+Testing:
+--------
 
 Edit the test.js file, then run in a new virtual terminal:
 ```
